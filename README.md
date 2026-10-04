@@ -2,12 +2,12 @@
 ![Devhost-preview](Devhost.jpg)
 
 <p align="center">
-  <strong>Instant HTML Hosting via Surge.sh – Cyberpunk Neon Edition</strong><br>
-  <em>"Deploy with style. Host forever free." – Mr.X</em>
+  <strong>Instant HTML Hosting via Surge.sh â€“ Cyberpunk Neon Edition</strong><br>
+  <em>"Deploy with style. Host forever free." â€“ Mr.X</em>
 </p>
 
 ## Introduction
-Devhost is a Termux-based tool that lets you deploy static HTML websites instantly and for free using **Surge.sh**. With a single command, your local HTML files get a permanent public URL with a **.surge.sh** subdomain—no complicated configurations, no GitHub tokens, just pure simplicity. Devhost also includes a domain management system to keep track of all your deployments, deactivate or delete them, and switch between Surge accounts. The sleek cyberpunk neon interface runs smoothly on **Termux (Android)**, Linux, Windows, and Kali Linux—**no root required**.
+Devhost is a Termux-based tool that lets you deploy static HTML websites instantly and for free using **Surge.sh**. With a single command, your local HTML files get a permanent public URL with a **.surge.sh** subdomainâ€”no complicated configurations, no GitHub tokens, just pure simplicity. Devhost also includes a domain management system to keep track of all your deployments, deactivate or delete them, and switch between Surge accounts. The sleek cyberpunk neon interface runs smoothly on **Termux (Android)**, Linux, Windows, and Kali Linuxâ€”**no root required**.
 
 ## Installation
 ```bash
@@ -25,16 +25,16 @@ $ python3 Devhost.py
 ```
 
 ## Features
-- **100% Free Hosting** – Deploy static HTML on Surge.sh at no cost.
-- **Permanent Link** – Your **.surge.sh** URL never expires.
-- **No API Token Required** – Just an email & password (one-time login).
-- **Custom Subdomain** – Choose your own prefix (e.g., `mywebsite.surge.sh`).
-- **Smart Path Scanner** – Automatically finds HTML files on your device.
-- **Domain Management** – List, deactivate, activate, and permanently delete domains.
-- **Switch Account** – Easily change Surge email without losing settings.
-- **Auto-install Surge** – Devhost can install the Surge CLI if missing.
-- **Cyberpunk Neon UI** – Neon colors, loading animations, and full-width dividers.
-- **Termux Optimized** – Works flawlessly on Android without root.
+- **100% Free Hosting** â€“ Deploy static HTML on Surge.sh at no cost.
+- **Permanent Link** â€“ Your **.surge.sh** URL never expires.
+- **No API Token Required** â€“ Just an email & password (one-time login).
+- **Custom Subdomain** â€“ Choose your own prefix (e.g., `mywebsite.surge.sh`).
+- **Smart Path Scanner** â€“ Automatically finds HTML files on your device.
+- **Domain Management** â€“ List, deactivate, activate, and permanently delete domains.
+- **Switch Account** â€“ Easily change Surge email without losing settings.
+- **Auto-install Surge** â€“ Devhost can install the Surge CLI if missing.
+- **Cyberpunk Neon UI** â€“ Neon colors, loading animations, and full-width dividers.
+- **Termux Optimized** â€“ Works flawlessly on Android without root.
 
 ## Menu Options
 | #  | Option | Description |
@@ -49,12 +49,12 @@ $ python3 Devhost.py
 ## Instructions
 1. **Install** the tool using the commands above.
 2. **Run** `python3 Devhost.py` after installation.
-3. **First-time setup** – If Surge CLI is missing, Devhost will offer to install it. You'll also be prompted to log in to Surge (free account).
-4. **Deploy HTML** – Choose option 1, then select your HTML file via manual path or directory scan.
-5. **Choose domain** – Accept the random subdomain or enter your own prefix.
-6. **Get your permanent link** – After upload, you'll see the public URL.
-7. **Manage domains** – Use option 5 to view, deactivate, or delete deployed domains.
-8. **Switch accounts** – Use option 4 to log out and use a different Surge email.
+3. **First-time setup** â€“ If Surge CLI is missing, Devhost will offer to install it. You'll also be prompted to log in to Surge (free account).
+4. **Deploy HTML** â€“ Choose option 1, then select your HTML file via manual path or directory scan.
+5. **Choose domain** â€“ Accept the random subdomain or enter your own prefix.
+6. **Get your permanent link** â€“ After upload, you'll see the public URL.
+7. **Manage domains** â€“ Use option 5 to view, deactivate, or delete deployed domains.
+8. **Switch accounts** â€“ Use option 4 to log out and use a different Surge email.
 
 ## Observation
 This tool is intended for **personal and legitimate website hosting purposes only**. Always ensure you have the rights to deploy the content you upload. The author is not responsible for any misuse, loss of data, or violation of Surge.sh's terms of service.
@@ -66,13 +66,13 @@ This tool is intended for **personal and legitimate website hosting purposes onl
 
 ## CONNECT WITH ME :
 
-[![Website](https://img.shields.io/badge/WEBSITE-VISIT-red?style=for-the-badge&logo=blogger)](https://whomrx.pages.dev)
-[![Blog](https://img.shields.io/badge/BLOG-VISIT-red?style=for-the-badge&logo=blogger)](https://whomrxhackers.blogspot.com)
-[![Twitter](https://img.shields.io/badge/TWITTER-FOLLOW-red?style=for-the-badge&logo=x)](https://twitter.com/whomrx666)
-[![WhatsApp](https://img.shields.io/badge/WHATSAPP-CHATME-red?style=for-the-badge&logo=whatsapp)](https://wa.me/6285926601133?text=Halo%2C%20Mr.X)
-[![Facebook](https://img.shields.io/badge/FACEBOOK-LIKE-red?style=for-the-badge&logo=facebook)](https://www.facebook.com/whomrx.666)
-[![Telegram](https://img.shields.io/badge/TELEGRAM-CONNECT-red?style=for-the-badge&logo=telegram)](https://t.me/Whomr_X)
-[![Gmail](https://img.shields.io/badge/GMAIL-CONTACT-red?style=for-the-badge&logo=gmail)](mailto:whomrx666@gmail.com)
+[![Website](https://img.shields.io/badge/WEBSITE-VISIT-red?style=for-the-badge&logo=googlechrome)](https://whomrx.pages.dev) <br>
+[![Blog](https://img.shields.io/badge/BLOG-VISIT-red?style=for-the-badge&logo=blogger)](https://whomrxhackers.blogspot.com) <br>
+[![Twitter](https://img.shields.io/badge/TWITTER-FOLLOW-red?style=for-the-badge&logo=x)](https://twitter.com/whomrx666) <br>
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-CHATME-red?style=for-the-badge&logo=whatsapp)](https://wa.me/6285926601133?text=Halo%2C%20Mr.X) <br>
+[![Facebook](https://img.shields.io/badge/FACEBOOK-LIKE-red?style=for-the-badge&logo=facebook)](https://www.facebook.com/whomrx.666) <br>
+[![Telegram](https://img.shields.io/badge/TELEGRAM-CONNECT-red?style=for-the-badge&logo=telegram)](https://t.me/Whomr_X) <br>
+[![Gmail](https://img.shields.io/badge/GMAIL-CONTACT-red?style=for-the-badge&logo=gmail)](mailto:whomrx666@gmail.com) <br>
 [![TikTok](https://img.shields.io/badge/TIKTOK-FOLLOW-red?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@whomr.x)
 
 **If you want to donate, click on the button**
